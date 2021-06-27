@@ -1,4 +1,7 @@
-# codeedu-docker-desafio-nginx-node
+**Executar a imagem: `docker-compose up -d --build`**
+**Executar aplicação: http://localhost:8080**
+
+----
 
 Nginx com Node.js
 
