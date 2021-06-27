@@ -1,5 +1,6 @@
 **Executar a imagem: `docker-compose up -d --build`**
-**Executar aplicação: http://localhost:8080**
+
+**Executar a aplicação: http://localhost:8080**
 
 ----
 
